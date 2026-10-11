@@ -1,10 +1,16 @@
 # Capstone-Project
 Online Retail Sales Analysis and Daily Revenue Prediction
+
 Project Title
+
 Online Retail Sales Analysis and Daily Revenue Prediction Using Machine Learning
+
 Name: Gautham Rajesh
+
 Project Type: Regression / Time-Series Forecasting
+
 Objective
+
 The objective of this project is to analyse historical online retail transactions and develop a machine learning model to predict daily sales revenue. The project involves data cleaning, exploratory data analysis, feature engineering, and the comparison of multiple regression algorithms to identify the model with the best predictive performance.
 Dataset Used
 Dataset Name: Online Retail II
